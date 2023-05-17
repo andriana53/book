@@ -1,0 +1,28 @@
+body{
+    background-image: url(mal_15.avif);
+    background-position: center;
+    background-repeat: no-repeat ;
+    background-attachment: fixed;
+    background-size: cover;
+   
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+.menu {
+    padding: 15px 0 15px 0;
+    background-color: rgba(12, 123, 201, 0.66);
+    border-radius: 15px;
+    background-position: center;
+}
+
+.content {
+	padding: 20px 0 50px 0;
+    background-color: rgba(193, 241, 247, 0.76);
+    border-radius: 15px;
+    background-position: center;}
+.anna{
+    padding: 20px;
+}
